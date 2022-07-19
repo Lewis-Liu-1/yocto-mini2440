@@ -12,7 +12,9 @@ Ok supervivi, but how, read the user manual, choose option [v]
 
 but how to upload supervivi to mini2440 from Ubuntu, if you have an old PC with Windows PC, use dnw.exe.
 But Ubuntu do this:
+  
   git clone https://github.com/ClubINTech/mini2440-startup-guide.git
+  
   download s3c2410_boot_usb source code and build your own.
   make
   Compile errors??
